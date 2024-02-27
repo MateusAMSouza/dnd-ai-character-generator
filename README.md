@@ -28,3 +28,4 @@ After some seconds, the result will be displayed as these examples shows:
 ## Notes
 If you access localhost:3000 or look for the frontend folder, you will see incomplete functionalities, such as the idea of inserting the character's class and level in a initial page,
 instead of inserting them at the URL. Until this version of the code, this funcionality is not working.
+The screenshots of the output show different formatting text in Ability Scores (displaying the bonuses after the value) and in the Equipment section (numbering the items or not). This may occur because of the different responses of ChatGPT API, despite the prompt descriptions given.
